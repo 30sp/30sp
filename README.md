@@ -94,8 +94,8 @@
   <img src="https://streak-stats.demolab.com?user=30sp&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<!--###-->
 
-<img src="https://raw.githubusercontent.com/30sp/30sp/main/snake/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/30sp/30sp/main/snake/snake.svg" alt="Snake animation" />-->
 
-###
+<!--###-->
