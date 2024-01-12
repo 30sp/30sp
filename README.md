@@ -57,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=30sp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=Spire's%20Stats" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=30sp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=30sp&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!--<img src="https://streak-stats.demolab.com?user=30sp&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />-->
 </div>
 
 <!--###-->
