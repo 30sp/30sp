@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=spireast&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://twitter.com/spireast" target="_blank">
+  <a href="https://twitter.com/thespireast" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://youtube.com/@spireast" target="_blank">
