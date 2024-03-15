@@ -7,7 +7,7 @@
     <img height="32" src="https://skillicons.dev/icons?i=js,ts,nodejs,mongo,express,pug,react,nextjs,tailwind" />
   </a>
 
-  <p></p>
+  <h2></h2>
   
   <img src="https://img.shields.io/static/v1?message=spireast&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
   <a href="https://twitter.com/thespireast" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=14171A&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo" /></a>
