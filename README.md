@@ -1,11 +1,23 @@
 <samp>
   <h3>hey there 👋</h3>
 
-  <p align="left">I'm a 17 y/o web developer from Turkiye<br><br>&nbsp;&nbsp;🔭 I'm currently working on my side projects, but I'm always open to collaborations<br>&nbsp;&nbsp;📚 Learning Python and R<br>&nbsp;&nbsp;⚡ In my free time I watch series and hangout with friends irl</p>
+  <p align="left">I'm a 17 y/o web developer from Turkiye
+    <br />
+    <br />
+    &nbsp;&nbsp;🔭 I'm currently working on my side projects, but I'm always open to collaborations
+    <br />
+    &nbsp;&nbsp;📚 Learning Python and R
+    <br />
+    &nbsp;&nbsp;⚡ In my free time I watch series and hangout with friends irl
+  </p>
 
+  <h4>my skill set</h4>
   <a href="https://skillicons.dev">
-    <img height="32" src="https://skillicons.dev/icons?i=js,ts,nodejs,mongo,express,pug,react,nextjs,tailwind" />
+    <img height="28" src="https://skillicons.dev/icons?i=js,ts,nodejs,mongo,express,pug,react,nextjs,tailwind" />
   </a>
+
+  <h4>released projects</h4>
+  <p>there will be something here in a couple of weeks ig</p>
 
   <h2></h2>
   
