@@ -1,5 +1,5 @@
 <samp>
-  <h3>hey there 👋</h3>
+  <h3>hey there, i'm spire</h3>
 
   <p align="left">I'm a 17 y/o web developer from Turkiye
     <br />
