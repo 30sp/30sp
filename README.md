@@ -1,7 +1,8 @@
 <samp>
   <h3>hey there, i'm spire</h3>
 
-  <p align="left">I'm a 17 y/o web developer from Turkiye
+  <p align="left">
+    I'm a 17 y/o web developer from Turkiye
     <br />
     <br />
     &nbsp;&nbsp;🔭 I'm currently working on my side projects, but I'm always open to collaborations
