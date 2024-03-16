@@ -19,17 +19,19 @@
   <h4>released projects</h4>
   <p>there will be something here in a couple of weeks ig</p>
 
-  <!--<table>
+  <table>
     <tbody>
       <td align="center">
         <a target="_blank" href="https://github.com/30sp">
           <img height="80" src="https://github.com/30sp.png?size=100" />
           <br />
-          <sub><b>Tekh</b></sub>
+          <b>Tekh</b>
+          <br />
         </a>
+        <sub><code>Founder</code></sub>
       </td>
     </tbody>
-  </table>-->
+  </table>
 
   <h2></h2>
   
