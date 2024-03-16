@@ -19,6 +19,18 @@
   <h4>released projects</h4>
   <p>there will be something here in a couple of weeks ig</p>
 
+  <!--<table>
+    <tbody>
+      <td align="center">
+        <a target="_blank" href="https://github.com/30sp">
+          <img height="80" src="https://github.com/30sp.png?size=100" />
+          <br />
+          <sub><b>Tekh</b></sub>
+        </a>
+      </td>
+    </tbody>
+  </table>-->
+
   <h2></h2>
   
   <img src="https://img.shields.io/static/v1?message=spireast&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
