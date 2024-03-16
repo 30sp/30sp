@@ -19,7 +19,7 @@
   <h4>released projects</h4>
   <p>there will be something here in a couple of weeks ig</p>
 
-  <table>
+  <!--<table>
     <tbody>
       <td align="center">
         <a target="_blank" href="https://github.com/30sp">
@@ -31,7 +31,7 @@
         <sub><code>Founder</code></sub>
       </td>
     </tbody>
-  </table>
+  </table>-->
 
   <h2></h2>
   
